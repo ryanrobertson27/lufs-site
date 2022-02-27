@@ -1,0 +1,8 @@
+#main {
+    height: 100%;
+}
+
+#soundwave-logo {
+    filter: invert(100%) sepia(5%) saturate(7484%) hue-rotate(193deg) brightness(103%) contrast(105%);
+    width: 2rem;
+}
